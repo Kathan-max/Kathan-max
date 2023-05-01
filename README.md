@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kathan-max&label=Profile%20views&color=0e75b6&style=flat" alt="kathan-max" /> </p>
 
-- 🔭 I’m currently working on [AlzTra](https://github.com/Kathan-max/AlzTra.git)
+- 🔭 I’m currently working on [DeepSORT Implementation in presence of Occlusion](https://github.com/Maulik176/CSE-541-Computer-Vision-2023-Pixel-Pioneers.git)
 
 - 🌱 I’m currently learning **MERN stack and Advanced OpenCV courses**
 
