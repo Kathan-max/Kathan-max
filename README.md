@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kathanbhavsar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kathanbhavsar10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kathan bhavsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kathan bhavsar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kathan-bhavsar-31b058235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kathan bhavsar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/kathan_max" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kathan_max" height="30" width="40" /></a>
 <a href="https://kaggle.com/kathan_bhavsar8805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kathan_bhavsar8805" height="30" width="40" /></a>
 <a href="https://instagram.com/kathan_8805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kathan_8805" height="30" width="40" /></a>
