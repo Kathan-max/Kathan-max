@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [DeepSORT Implementation in presence of Occlusion](https://github.com/Maulik176/CSE-541-Computer-Vision-2023-Pixel-Pioneers.git)
 
-- 🌱 I’m currently learning **MERN stack and Advanced OpenCV courses**
+- 🌱 I’m currently learning **Mind Mart an AI driven shopping helper**
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Machine Learning and Data Science**
 
-- 📫 How to reach me **kathanbhavsar234@gmail.com**
+- 📫 How to reach me **kathanbhavsar234@gmail.com or bhavsa85@uwindsor.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
