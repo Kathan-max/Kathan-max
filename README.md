@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RAG-Enhanced-Chatbot-with-LoRA-Fine-Tuning](https://github.com/Kathan-max/RAG-Enhanced-Chatbot-with-LoRA-Fine-Tuning.git)
 
-- 🌱 I’m currently learning **Mind Mart an AI driven shopping helper**
+- 🌱 I’m currently learning **Large Language Models Architectures**
 
 - 💬 Ask me about **Software Development | Machine Learning and Data Science**
 
