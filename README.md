@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kathan Bhavsar</h1>
-<h3 align="center">A passionate Android and Web developer from India</h3>
+<h3 align="center">A passionate Software Developer and Machine Learning Engineer/ Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kathan-max&label=Profile%20views&color=0e75b6&style=flat" alt="kathan-max" /> </p>
 
-- 🔭 I’m currently working on [DeepSORT Implementation in presence of Occlusion](https://github.com/Maulik176/CSE-541-Computer-Vision-2023-Pixel-Pioneers.git)
+- 🔭 I’m currently working on [RAG-Enhanced-Chatbot-with-LoRA-Fine-Tuning](https://github.com/Kathan-max/RAG-Enhanced-Chatbot-with-LoRA-Fine-Tuning.git)
 
 - 🌱 I’m currently learning **Mind Mart an AI driven shopping helper**
 
-- 💬 Ask me about **Machine Learning and Data Science**
+- 💬 Ask me about **Software Development | Machine Learning and Data Science**
 
 - 📫 How to reach me **kathanbhavsar234@gmail.com or bhavsa85@uwindsor.ca**
 
