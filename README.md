@@ -57,8 +57,9 @@
 |--------|------|-------------|
 | [RAG Chatbot + LoRA](https://github.com/Kathan-max/RAG-Enhanced-Chatbot-with-LoRA-Fine-Tuning) | `RAG`, `LoRA`, `OpenAI`, `LangChain` | Conversational bot using Retrieval-Augmented Generation and LoRA fine-tuning |
 | [Multi-Model ML Web App](https://github.com/Kathan-max/ML-Classification-App-Angular) | `Angular`, `Flask`, `SVM`, `RF`, `Linear Regression` | Upload CSV, auto model suggestion, confusion matrix |
-| [BarterCove](https://github.com/Kathan-max/BarterCove) | `React`, `Node.js`, `MongoDB` | Hyper-local peer-to-peer bartering app with smart matching |
-| [Deep Learning Models](https://github.com/Kathan-max/DeepLearning-from-scratch) | `NumPy`, `PyTorch` | Implemented neural networks and loss functions from scratch |
+| [CourseCove (Spring boot + React)](https://github.com/Kathan-max/CourseCove.git) | `Spring-Boot`, `React`, `Search Algorithms`, `Performance Optimization`| A semantic course search and recommendation system for online learning platforms, featuring intelligent query analysis, ranking, and autocomplete using Java and custom data structures |
+| [DeepSort - Realtime Object Tracking](https://github.com/Kathan-max/CSE-541-Computer-Vision-2023-Pixel-Pioneers) | `Python`, `PyTorch`, `ResNet-50`, `YoloV4`, `OpenCV`, `CUDA`,  `Kalman-Filters`, `Scikit-learn`  |Implementation of real time object tracking in presence of occlusion - DeepSort |
+| [Extractive Text Summarizer](https://github.com/Kathan-max/CSE523-Machine-Learning-2022-Precision-Precis) | `Python`, `NLP`, `PyTorch`, `SVM`, `Scikit-learn`, `NumPy`, `sciPy` , `NLTK` | Extractive Summarizer using SVM, trained on BBC news article dataset |
 
 ---
 
@@ -72,9 +73,9 @@
 ---
 
 ### 📫 Reach Me
-- Email: **kathanbhavsar234@gmail.com** | **bhavsa85@uwindsor.ca**
+- Email: **bhavsa85@uwindsor.ca** | **kathanbhavsar234@gmail.com**
 - [LinkedIn](https://linkedin.com/in/kathan-bhavsar-31b058235)
-- [Kaggle](https://kaggle.com/kathan_bhavsar8805) | [LeetCode](https://leetcode.com/kathan_1605) | [GFG](https://auth.geeksforgeeks.org/user/kathanbhavsar234/)
+- [Kaggle](https://www.kaggle.com/kathanbhavsar944) | [LeetCode](https://leetcode.com/kathan_1605) | [GFG](https://auth.geeksforgeeks.org/user/kathanbhavsar234/)
 
 ---
 
