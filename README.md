@@ -1,6 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Kathan Bhavsar</h1>
 <h3 align="center">🚀 Passionate Software Developer | 🧠 Machine Learning Engineer | 🤖 GenAI Enthusiast</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kathan-max&label=Profile%20views&color=0e75b6&style=flat" alt="kathan-max" />
 </p>
@@ -52,7 +51,6 @@
 ---
 
 ### 💡 Key Projects
-
 | Project | Tech | Description |
 |--------|------|-------------|
 | [RAG Chatbot + LoRA](https://github.com/Kathan-max/RAG-Enhanced-Chatbot-with-LoRA-Fine-Tuning) | `RAG`, `LoRA`, `OpenAI`, `LangChain` | Conversational bot using Retrieval-Augmented Generation and LoRA fine-tuning |
@@ -90,13 +88,12 @@
 
 ---
 
-### 🎆 GitHub Contribution Snake Animation
+### 🐍 GitHub Contribution Snake Animation
 <p align="center">
-  <img src="https://github.com/kathan-max/kathan-max/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/kathan-max/kathan-max/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
 ### ✨ Fun Fact
-> I’ve built neural networks, fine-tuned LLMs, deployed ML microservices, and still enjoy solving a good LeetCode puzzle at midnight 🧩.
-
+> I've built neural networks, fine-tuned LLMs, deployed ML microservices, and still enjoy solving a good LeetCode puzzle at midnight 🧩.
