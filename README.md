@@ -88,7 +88,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/kathan-max/kathan-max/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
