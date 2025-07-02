@@ -83,7 +83,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathan-max&layout=compact&theme=radical" height="150"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathan-max&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kathan-max&theme=radical" height="150"/>
 </p>
 
 ---
