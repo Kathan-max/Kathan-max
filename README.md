@@ -54,7 +54,6 @@
 | Project | Tech | Description |
 |--------|------|-------------|
 | [RAG Chatbot + LoRA](https://github.com/Kathan-max/RAG-Enhanced-Chatbot-with-LoRA-Fine-Tuning) | `RAG`, `LoRA`, `OpenAI`, `LangChain` | Conversational bot using Retrieval-Augmented Generation and LoRA fine-tuning |
-| [Multi-Model ML Web App](https://github.com/Kathan-max/ML-Classification-App-Angular) | `Angular`, `Flask`, `SVM`, `RF`, `Linear Regression` | Upload CSV, auto model suggestion, confusion matrix |
 | [CourseCove (Spring boot + React)](https://github.com/Kathan-max/CourseCove.git) | `Spring-Boot`, `React`, `Search Algorithms`, `Performance Optimization`| A semantic course search and recommendation system for online learning platforms, featuring intelligent query analysis, ranking, and autocomplete using Java and custom data structures |
 | [DeepSort - Realtime Object Tracking](https://github.com/Kathan-max/CSE-541-Computer-Vision-2023-Pixel-Pioneers) | `Python`, `PyTorch`, `ResNet-50`, `YoloV4`, `OpenCV`, `CUDA`,  `Kalman-Filters`, `Scikit-learn`  |Implementation of real time object tracking in presence of occlusion - DeepSort |
 | [Extractive Text Summarizer](https://github.com/Kathan-max/CSE523-Machine-Learning-2022-Precision-Precis) | `Python`, `NLP`, `PyTorch`, `SVM`, `Scikit-learn`, `NumPy`, `sciPy` , `NLTK` | Extractive Summarizer using SVM, trained on BBC news article dataset |
